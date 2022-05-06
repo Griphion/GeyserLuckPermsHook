@@ -1,0 +1,5 @@
+name: GeyserLuckPermsHook
+author: Griphion
+version: '${project.version}'
+main: me.griphion.geyserluckpermshook.GeyserLuckPermsHook
+description: Hook bedrock players with LuckPerms and add them to a specific group
